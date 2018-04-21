@@ -1,28 +1,77 @@
-<html>
-<!-- Text between angle brackets is an HTML tag and is not displayed.
-Most tags, such as the HTML and /HTML tags that surround the contents of
-a page, come in pairs; some tags, like HR, for a horizontal rule, stand 
-alone. Comments, such as the text you're reading, are not displayed when
-the Web page is shown. The information between the HEAD and /HEAD tags is 
-not displayed. The information between the BODY and /BODY tags is displayed.-->
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 <head>
-<title>Kevin He Website</title>
+<meta name="viewport" content="width = 1050, user-scalable = no" />
+<script type="text/javascript" src="js/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="js/modernizr.2.5.3.min.js"></script>
 </head>
-<!-- The information between the BODY and /BODY tags is displayed.-->
 <body>
-<h1>Kevin He Portfolio</h1>
-<p>Be <b>bold</b> in stating your key points. Put them in a list: </p>
-<ul>
-<li><a href="Kevin_He_Portfolio_2018.pdf">Kevin He Portfolio 2018</a></li>
-<li>The second item; <i>italicize</i> key words</li>
-</ul>
-<p>Improve your image by including an image. </p>
-<p><img src="http://www.mygifs.com/CoverImage.gif" alt="A Great HTML Resource"></p>
-<p>Add a link to your favorite <a href="http://www.dummies.com/">Web site</a>.
-Break up your page with a horizontal rule or two. </p>
-<hr>
-<p>Finally, link to <a href="page2.html">another page</a> in your own Web site.</p>
 
+<div class="flipbook-viewport">
+	<div class="container">
+		<div class="flipbook">
+			<div style="background-image:url(pages/1.jpg)"></div>
+			<div style="background-image:url(pages/2.jpg)"></div>
+			<div style="background-image:url(pages/3.jpg)"></div>
+			<div style="background-image:url(pages/4.jpg)"></div>
+			<div style="background-image:url(pages/5.jpg)"></div>
+			<div style="background-image:url(pages/6.jpg)"></div>
+			<div style="background-image:url(pages/7.jpg)"></div>
+			<div style="background-image:url(pages/8.jpg)"></div>
+			<div style="background-image:url(pages/9.jpg)"></div>
+			<div style="background-image:url(pages/10.jpg)"></div>
+			<div style="background-image:url(pages/11.jpg)"></div>
+			<div style="background-image:url(pages/12.jpg)"></div>
+		</div>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+
+function loadApp() {
+
+	// Create the flipbook
+
+	$('.flipbook').turn({
+			// Width
+
+			width:922,
+			
+			// Height
+
+			height:600,
+
+			// Elevation
+
+			elevation: 50,
+			
+			// Enable gradients
+
+			gradients: true,
+			
+			// Auto center this flipbook
+
+			autoCenter: true
+
+	});
+}
+
+// Load the HTML4 version if there's not CSS transform
+
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['js/turn.js'],
+	nope: ['js/turn.html4.min.js'],
+	both: ['css/basic.css'],
+	complete: loadApp
+});
+
+</script>
 
 </body>
 </html>
