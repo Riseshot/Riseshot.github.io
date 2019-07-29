@@ -1,28 +1,156 @@
-<html>
-<!-- Text between angle brackets is an HTML tag and is not displayed.
-Most tags, such as the HTML and /HTML tags that surround the contents of
-a page, come in pairs; some tags, like HR, for a horizontal rule, stand 
-alone. Comments, such as the text you're reading, are not displayed when
-the Web page is shown. The information between the HEAD and /HEAD tags is 
-not displayed. The information between the BODY and /BODY tags is displayed.-->
+<!doctype html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 <head>
-<title>Kevin He Website</title>
-</head>
-<!-- The information between the BODY and /BODY tags is displayed.-->
-<body>
-<h1>Kevin He Portfolio</h1>
-<p>Be <b>bold</b> in stating your key points. Put them in a list: </p>
-<ul>
-<li><a href="Kevin_He_Portfolio_2018.pdf">Kevin He Portfolio 2018</a></li>
-<li>The second item; <i>italicize</i> key words</li>
-</ul>
-<p>Improve your image by including an image. </p>
-<p><img src="http://www.mygifs.com/CoverImage.gif" alt="A Great HTML Resource"></p>
-<p>Add a link to your favorite <a href="http://www.dummies.com/">Web site</a>.
-Break up your page with a horizontal rule or two. </p>
-<hr>
-<p>Finally, link to <a href="page2.html">another page</a> in your own Web site.</p>
+<meta name="viewport" content="width = 1600, user-scalable = yes" />
+<script type="text/javascript" src="js/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="js/modernizr.2.5.3.min.js"></script>
 
+<!-- Various libraries that Spectacles depends upon.  All of these are stored in the /js/libs directory in this site -->
+    <script type="text/javascript" src="../../js/libs/jquery-1.9.0.js"></script>
+    <script type="text/javascript" src="../../js/libs/dat.gui.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../css/datgui_styleOverride.css">
+    <script type="text/javascript" src="../../js/libs/three.js"></script>
+    <script type="text/javascript" src="../../js/libs/OrbitControls.js"></script>
+    <script type="text/javascript" src="../../js/libs/Projector.js"></script>
+    <script type="text/javascript" src="../../js/libs/stats.js"></script>
+    <script type="text/javascript" src="../../js/libs/jquery-ui.js"></script>
+
+
+    <!-- Application files -->
+    <link rel='stylesheet' type='text/css' href='css/960.css'>  <!-- grid layouts -->
+    <link rel='stylesheet' type='text/css' href='../../css/SPECTACLES.css'/>  <!-- the Spectacles stylesheet -->
+    <script type="text/javascript" src="../../js/SPECTACLES.js"></script>  <!-- the Spectacles library -->
+    <script type="text/javascript" src="js/APP_INIT.js"></script>  <!-- the file that starts our app - contains the jquery.ready() function. -->
+
+    <!-- Single Page App - specific CSS -->
+    <style type="text/css">
+        body{
+            font-family: 'lucida grande', Sans-Serif;
+            font-size: 75%;
+        }
+        a:link {color: #787878;}
+        a:visited {color:#787878;}
+        a:hover {color: #a0a0a0;}
+    </style>
+<script type="application/javascript">
+    window.addEventListener('resize', function(){
+        $("#Spectacles_output").css("height",window.innerHeight.toString());
+        $("#Spectacles_output").css("width",window.innerWidth.toString());
+        $("#Spectacles_output").resize();
+    });
+</script>
+
+</head>
+<body>
+
+<div class="flipbook-viewport">
+	<div class="container">
+		<div class="flipbook">
+			<div style="background-image:url(pages/1.jpg)"></div>
+			<div style="background-image:url(pages/2.jpg)"></div>
+			<div style="background-image:url(pages/3.jpg)"></div>
+			<div style="background-image:url(pages/4.jpg)"></div>
+			<div style="background-image:url(pages/5.jpg)"></div>
+			<div style="background-image:url(pages/6.jpg)"></div>
+			<div style="background-image:url(pages/7.jpg)"></div>
+			<div style="background-image:url(pages/8.jpg)"></div>
+			<div style="background-image:url(pages/9.jpg)"></div>
+			<div style="background-image:url(pages/10.jpg)"></div>
+			<div style="background-image:url(pages/11.jpg)"></div>
+			<div style="background-image:url(pages/12.jpg)"></div>
+			<div style="background-image:url(pages/13.jpg)"></div>
+			<div style="background-image:url(pages/14.jpg)"></div>
+			<div style="background-image:url(pages/15.jpg)"></div>
+			<div style="background-image:url(pages/16.jpg)"></div>
+			<div style="background-image:url(pages/17.jpg)"></div>
+			<div style="background-image:url(pages/18.jpg)"></div>
+			<div style="background-image:url(pages/19.jpg)"></div>
+			<div style="background-image:url(pages/20.jpg)"></div>
+			<div style="background-image:url(pages/21.jpg)"></div>
+			<div style="background-image:url(pages/22.jpg)"></div>
+			<div style="background-image:url(pages/23.jpg)"></div>
+			<div style="background-image:url(pages/24.jpg)"></div>
+			<div style="background-image:url(pages/25.jpg)"></div>
+			<div style="background-image:url(pages/26.jpg)"></div>
+			<div style="background-image:url(pages/27.jpg)"></div>
+			<div style="background-image:url(pages/28.jpg)"></div>
+			<div style="background-image:url(pages/29.jpg)"></div>
+			<div style="background-image:url(pages/30.jpg)"></div>
+			<div style="background-image:url(pages/31.jpg)"></div>
+			<div style="background-image:url(pages/32.jpg)"></div>
+			<div style="background-image:url(pages/33.jpg)"></div>
+			<div style="background-image:url(pages/34.jpg)"></div>
+			<div style="background-image:url(pages/35.jpg)"></div>
+			<div style="background-image:url(pages/36.jpg)"></div>
+			<div style="background-image:url(pages/37.jpg)"></div>
+			<div style="background-image:url(pages/38.jpg)"></div>
+			<div style="background-image:url(pages/39.jpg)"></div>
+			<div style="background-image:url(pages/40.jpg)"></div>
+			<div style="background-image:url(pages/41.jpg)"></div>
+			<div style="background-image:url(pages/42.jpg)"></div>
+			<div style="background-image:url(pages/43.jpg)"></div>
+			<div style="background-image:url(pages/44.jpg)"></div>
+			<div style="background-image:url(pages/45.jpg)"></div>
+			<div style="background-image:url(pages/46.jpg)"></div>
+			<div style="background-image:url(pages/47.jpg)"></div>
+			<div style="background-image:url(pages/48.jpg)"></div>
+			<div style="background-image:url(pages/49.jpg)"></div>
+			<div style="background-image:url(pages/50.jpg)"></div>
+			<div style="background-image:url(pages/51.jpg)"></div>
+		</div>
+	</div>
+</div>
+
+<div class="container_12">
+
+    <div class="grid_12" id="Spectacles_output" style="height: 600px"></div>
+
+</div>
+<script type="text/javascript">
+
+function loadApp() {
+
+	// Create the flipbook
+
+	$('.flipbook').turn({
+			// Width
+
+			width:1224,
+			
+			// Height
+
+			height:612,
+
+			// Elevation
+
+			elevation: 50,
+			
+			// Enable gradients
+
+			gradients: true,
+			
+			// Auto center this flipbook
+
+			autoCenter: true
+
+	});
+}
+
+// Load the HTML4 version if there's not CSS transform
+
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['js/turn.js'],
+	nope: ['js/turn.html4.min.js'],
+	both: ['css/basic.css'],
+	complete: loadApp
+});
+
+</script>
 
 </body>
 </html>
