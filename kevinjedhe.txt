@@ -50,8 +50,8 @@
 <div class="flipbook-viewport">
 	<div class="container">
 		<div class="flipbook">
-			<div style="background-image:url(pages/1.jpg)"></div>
-			<div style="background-image:url(pages/2.jpg)"></div>
+			<div id="Spectacles_output" style="height: 600px"></div>
+			<div style="background-image:url(pages/2.jpg)"></div>	
 			<div style="background-image:url(pages/3.jpg)"></div>
 			<div style="background-image:url(pages/4.jpg)"></div>
 			<div style="background-image:url(pages/5.jpg)"></div>
@@ -105,11 +105,7 @@
 	</div>
 </div>
 
-<div class="container_12">
 
-    <div class="grid_12" id="Spectacles_output" style="height: 600px"></div>
-
-</div>
 <script type="text/javascript">
 
 function loadApp() {
