@@ -51,9 +51,9 @@
 	<div class="container">
 		<div class="flipbook">
 			<div style="background-image:url(pages/0.jpg)"></div>
-			<div style="background-image:url(pages/02.jpg)"></div>
+			<!--div style="background-image:url(pages/02.jpg)"></div-->
 			<!--div id="Spectacles_output" style="height: 600px"></div-->			
-			<div style="background-image:url(pages/03.jpg)"></div>
+			<!--div style="background-image:url(pages/03.jpg)"></div>
 			<div style="background-image:url(pages/04.jpg)"></div>
 			<div style="background-image:url(pages/05.jpg)"></div>
 			<div style="background-image:url(pages/06.jpg)"></div>
@@ -89,8 +89,21 @@
 			<div style="background-image:url(pages/036.jpg)"></div>
 			<div style="background-image:url(pages/037.jpg)"></div>
 			<div style="background-image:url(pages/038.jpg)"></div>
-			<div style="background-image:url(pages/039.jpg)"></div>
-			<div style="background-image:url(pages/040.jpg)"></div>
+			<div style="background-image:url(pages/039.jpg)"></div-->
+			<div style="background-image:url(pages/040.jpg)"><video id="videoElement" width="595.236" height="334.82" poster="media/stillframe.png" style="margin:14.4px 0px 0px 6.983px;" controls autoplay><source src="media/simonkimfinal.mp4" type="video/mp4"></video>
+			<script type="text/javascript">
+    (function(window) {
+        function setupVideo()
+        {
+            var v = document.getElementById('videoElement');
+            v.addEventListener('mouseover', function() { this.controls = true; }, false);
+            v.addEventListener('mouseout', function() { this.controls = false; }, false);
+        }
+
+        window.addEventListener('load', setupVideo, false);
+    })(window);
+</script>
+			<!--iframe style="height:315px;width:560px;margin:10px 5px 15px 20px;" src="https://www.youtube.com/embed/MuYvEo5v_Rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe--></div>
 			<div style="background-image:url(pages/041.jpg)"></div>
 			<div style="background-image:url(pages/042.jpg)"></div>
 			<div style="background-image:url(pages/043.jpg)"></div>
