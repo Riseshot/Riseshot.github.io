@@ -2,27 +2,29 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>MDN Games: A-Frame demo</title>
+  <title>Model Test 2</title>
   <script src="aframe-v1.3.0.min.js"></script>
 </head>
 <body>
 
   <a-scene>
     <a-sky color="#DDDDDD"></a-sky>
-    <a-box
-    color="#FF5733"
-    rotation="20 40 0"
-    position="0 1 0">
-    <a-animation
-    attribute="rotation"
-    from="20 0 0"
-    to="20 360 0"
-    direction="alternate"
-    dur="4000"
-    repeat="indefinite"
-    easing="ease">
-    </a-animation>
-    </a-box>
+    <a-assets>
+
+        <a-asset-item 
+          id="glbtestmodel"
+          src="https://raw.githack.com/Riseshot/Riseshot.github.io/master/chalfont.glb">
+        </a-asset-item>
+
+      </a-assets>
+
+      <a-entity 
+          id="glbtest"
+          gltf-model="#glbtestmodel"
+          position="0 1 -2">
+      </a-entity>
+
+    </a-scene>
     <a-camera
   position="0 1 4"
   cursor-visible="true"
