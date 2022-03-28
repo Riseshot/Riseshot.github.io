@@ -18,7 +18,14 @@
   </head>
   <body>
      <a-scene>
-      
+      <a-assets>
+
+        <a-asset-item 
+          id="glbtestmodel"
+          src="https://raw.githack.com/Riseshot/Riseshot.github.io/master/chalfont.glb">
+        </a-asset-item>
+
+      </a-assets>
       <a-entity
         id="boxGeometry"
         position="0 2.0 -1"
@@ -41,16 +48,14 @@
        <a-entity
         id="sphereGeometry"
         position="0 2.0 -1"
-        rotation="45 45 0"
-        geometry="primitive: sphere; radius: 0.6;"
-        material="color: #fcdab7"
+        gltf-model="#glbtestmodel"
         size-change
         visible="false"
         scale="0.5 0.5 0.5"
       ></a-entity>
       <a-entity id="menu" menu position="0 1.5 -0.5" rotation="-45 0 0" event-manager>
         <a-entity slider position="0 0.10 0"></a-entity>
-        <a-entity id="sphereButton" button="label: sphere" position="-0.15 0 0"></a-entity>
+        <a-entity id="sphereButton" button="label: model" position="-0.15 0 0"></a-entity>
         <a-entity id="boxButton" button="label: box" position="0 0 0"></a-entity>
         <a-entity id="torusButton"button="label: torus" position="0.15 0 0"></a-entity>
         <a-entity id="darkModeButton" button="label: Dark Mode; width: 0.20; toggable: true" position="0 -0.10 0"></a-entity>
