@@ -35,7 +35,7 @@ AFRAME.registerComponent("interactive-book", {
         // cylinder along book center
         this.spine = document.createElement("a-entity");
         this.spine.setAttribute("geometry",
-          { primitive: "cylinder", height: this.data.bookHeight + margin, radius: 4*this.pageDepth } );
+          { primitive: "cylinder", height: this.data.bookHeight + margin, radius: 1*this.pageDepth } );
         this.spine.setAttribute("material", { color: this.data.coverColor });
         this.spine.setAttribute("position", {x: -this.bookWidth/2, y:0, z:0} );
         this.backCover.appendChild(this.spine);
