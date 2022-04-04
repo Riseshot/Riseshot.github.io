@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Hand Tracking Test 1</title>
+    <title>Hand Tracking Test botw</title>
     <meta name="description" content="Hello, WebVR! • A-Frame">
     <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
     <script src="aframe-environment-component.min.js"></script>
@@ -18,7 +18,15 @@
   </head>
   <body>
      <a-scene>
-       <a-sound src="https://vgmsite.com/soundtracks/the-legend-of-zelda-breath-of-the-wild/rogocjwpzy/1-02%20Main%20Theme.mp3" autoplay="true" position="0 2 5"></a-sound>
+       
+    <a-assets>
+    
+      <audio id="ambient" src="https://vgmsite.com/soundtracks/the-legend-of-zelda-breath-of-the-wild/rogocjwpzy/1-02%20Main%20Theme.mp3" preload="auto"></audio>
+      
+    </a-assets>
+
+      <a-entity id="ambientSound" sound="src: #ambient; loop: true;"></a-entity>
+
       <a-entity
         id="boxGeometry"
         position="0 2.0 -1"
