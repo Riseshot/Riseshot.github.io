@@ -2,12 +2,13 @@ import requests
 import pandas as pd
 import unicodedata
 from bs4 import BeautifulSoup
+import urllib.parse
 
 url = "https://salaries.archinect.com/salarypoll/results"
 
 res =[]
-for x in range(0,174):
-    querystring = {"sEcho":"2","iColumns":"2","sColumns":"","iDisplayStart":f"{100 * x + 20}","iDisplayLength":"100","mDataProp_0":"0","mDataProp_1":"1","sSearch":"","bRegex":"false","sSearch_0":"","bRegex_0":"false","bSearchable_0":"false","sSearch_1":"","bRegex_1":"false","bSearchable_1":"true","iSortCol_0":"0","sSortDir_0":"asc","iSortingCols":"1","bSortable_0":"true","bSortable_1":"false","age":"[]","gender":"[]","job_title":"[]","primary_market":"[]","experience":"[]","firm_type":"[]","firm_size":"[]","work_status":"[]","license":"[]","health_insurance":"[]","overtime":"[]","annual_bonus":"[]","sort_by":"id","salary-range":"0;100000","range_plus":"true","location":"","under_graduate_school":"","graduate_school":"","post_graduate_school":"","location_type":"all","salary_time":"[]","job_satisfaction":"[]","_":"1657203422691"}
+for x in range(0,3):
+    querystring = {"sEcho":"2","iColumns":"2","sColumns":"","iDisplayStart":f"{10 * x + 20}","iDisplayLength":"10","mDataProp_0":"0","mDataProp_1":"1","sSearch":"","bRegex":"false","sSearch_0":"","bRegex_0":"false","bSearchable_0":"false","sSearch_1":"","bRegex_1":"false","bSearchable_1":"true","iSortCol_0":"0","sSortDir_0":"asc","iSortingCols":"1","bSortable_0":"true","bSortable_1":"false","age":"[]","gender":"[]","job_title":"[]","primary_market":"[]","experience":"[]","firm_type":"[]","firm_size":"[]","work_status":"[]","license":"[]","health_insurance":"[]","overtime":"[]","annual_bonus":"[]","sort_by":"id","salary-range":"0;100000","range_plus":"true","location":"","under_graduate_school":"","graduate_school":"","post_graduate_school":"","location_type":"all","salary_time":"[]","job_satisfaction":"[]","_":"1657203422691"}
 
     payload = ""
     headers = {
@@ -66,7 +67,21 @@ for i in range(0,len(col_one_list) - 1):
         match3 = soup(text=lambda t:"Years of Experience" in t.text)
         match4 = soup(text=lambda t:"Years old" in t.text)
 
-        salary_location_position_date_yoe_age = matchtext.split(u'\xa0') + match2 + match3 + match4
+        # salary_location_position_date_yoe_age = matchtext.split(u'\xa0') + match2 + match3 + match4
+
+        location = matchtext.split(u'\xa0')[1]
+
+
+        url = 'https://nominatim.openstreetmap.org/search/' + urllib.parse.quote(location) +'?format=json'
+
+        response_location = requests.get(url).json()
+
+
+        match5 = response_location[0]["lat"]
+        match6 = response_location[0]["lon"]
+
+
+        salary_location_position_gps = matchtext.split(u'\xa0') + match2 + match3 + match4 + [match5] + [match6]
 
         #print(salary_location_position_date_yoe_age)
     except:
@@ -77,14 +92,14 @@ for i in range(0,len(col_one_list) - 1):
 
     
     #print(salary_location_position)
-    results.append(salary_location_position_date_yoe_age)
+    results.append(salary_location_position_gps)
     
 
 
 
 dfedit = pd.DataFrame(results)
 
-dfedit.to_csv('firstresults.csv')
+# dfedit.to_csv('firstresults.csv')
 
 
 

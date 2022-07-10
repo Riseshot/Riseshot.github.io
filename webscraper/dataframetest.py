@@ -1,6 +1,8 @@
 import pandas as pd
 import unicodedata
 from bs4 import BeautifulSoup
+import requests
+import urllib.parse
 
 
 
@@ -67,15 +69,28 @@ match2 = [soup.find('div', class_='date-stamp').text]
 match3 = soup(text=lambda t:"Years of Experience" in t.text)
 match4 = soup(text=lambda t:"Years old" in t.text)
 
+
 salary_location_position = matchtext.split(u'\xa0') + match2 + match3 + match4
 
+location = matchtext.split(u'\xa0')[1]
 
 
+url = 'https://nominatim.openstreetmap.org/search/' + urllib.parse.quote(location) +'?format=json'
 
-print(match)
-print()
-print(matchtext)
-print(match2)
-print(match3)
-print(match4)
-print(salary_location_position)
+response_location = requests.get(url).json()
+
+
+match5 = response_location[0]["lat"]
+match6 = response_location[0]["lon"]
+
+
+salary_location_position_gps = matchtext.split(u'\xa0') + match2 + match3 + match4 + [match5] + [match6]
+
+print(match5)
+print(location)
+print(salary_location_position_gps)
+# print(matchtext)
+# print(match2)
+# print(match3)
+# print(match4)
+# print(salary_location_position)
