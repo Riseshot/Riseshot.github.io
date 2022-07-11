@@ -99,7 +99,7 @@ for i in range(0,len(col_one_list) - 1):
 
 dfedit = pd.DataFrame(results)
 
-dfedit.to_csv('archinect_survey_results_gps.csv')
+dfedit.to_csv('first_results.csv', sep = ";")
 
 
 

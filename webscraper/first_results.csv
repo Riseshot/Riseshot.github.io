@@ -1,0 +1,301 @@
+;0;1;2;3;4;5;6;7
+0;$105,000per year;Phoenix, AZ, US;Senior Architect;Jul '22;16-20 Years of Experience;36-40 Years old;33.4484367;-112.074141
+1;$92,000per year;Los Angeles, CA, US;Intermediate Designer;Jul '22;3-5 Years of Experience;26-30 Years old;34.0536909;-118.242766
+2;$150,000per year;New York, NY, US;Associate;Jul '22;8-10 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+3;$20per hour;Boston, MA, US;Intern;Jul '22;1 Years of Experience;21-25 Years old;42.3554334;-71.060511
+4;$65,000per year;Boston, MA, US;Designer;Jul '22;3 Years of Experience;21-25 Years old;42.3554334;-71.060511
+5;$40per hour;Los Angeles, CA, US;Designer;Jul '22;2 Years of Experience;21-25 Years old;34.0536909;-118.242766
+6;$65,000per year;Philadelphia, PA, US;Junior Architect;Jun '22;3-5 Years of Experience;26-30 Years old;39.9527237;-75.1635262
+7;$96,500per year;Oakland, CA, US;Project Manager;Jun '22;8-10 Years of Experience;31-35 Years old;37.8044557;-122.2713563
+8;AUD$128per year;Melbourne, AU;Senior Architect;Jun '22;11-15 Years of Experience;31-35 Years old;-37.8142176;144.9631608
+9;AUD$60,000per year;Sydney, AU;Designer;Jun '22;3 Years of Experience;26-30 Years old;-33.8698439;151.2082848
+10;AUD$75,000per year;Brisbane, AU;Intermediate Designer;Jun '22;3-5 Years of Experience;26-30 Years old;-27.4689682;153.0234991
+11;$72,000per year;San Antonio, TX, US;Intermediate Architect;Jun '22;8-10 Years of Experience;26-30 Years old;29.4246002;-98.4951405
+12;$65,000per year;San Francisco, CA, US;Designer;Jun '22;1 Years of Experience;21-25 Years old;37.7790262;-122.419906
+13;$55,000per year;Chicago, IL, US;Designer;Jun '22;< 1 Years of Experience;21-25 Years old;41.8755616;-87.6244212
+14;$120,000per year;San Francisco, CA, US;Senior Designer;Jun '22;11-15 Years of Experience;31-35 Years old;37.7790262;-122.419906
+15;$20per hour;New York, NY, US;Intern;Jun '22;1 Years of Experience;21-25 Years old;40.7127281;-74.0060152
+16;$0per year;Houston, TX, US;Intern;Jun '22;< 1 Years of Experience;21-25 Years old;29.7589382;-95.3676974
+17;$100,000per year;Brooklyn, NY, US;Project Manager;Jun '22;8-10 Years of Experience;31-35 Years old;40.6526006;-73.9497211
+18;$85,000per year;Los Angeles, CA, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;34.0536909;-118.242766
+19;$65,000per year;Massachusetts, US;Designer;Jun '22;1 Years of Experience;21-25 Years old;42.3788774;-72.032366
+20;$77,500per year;Los Angeles, CA, US;Designer;Jun '22;6-7 Years of Experience;31-35 Years old;34.0536909;-118.242766
+21;$69,000per year;Boston, MA, US;Project Architect;Jun '22;6-7 Years of Experience;26-30 Years old;42.3554334;-71.060511
+22;$72,800per year;New Haven, CT, US;Associate;Jun '22;6-7 Years of Experience;31-35 Years old;41.3082138;-72.9250518
+23;$65,000per year;Los Angeles, CA, US;Associate;Jun '22;< 1 Years of Experience;21-25 Years old;34.0536909;-118.242766
+24;CAD$74,000per year;Kitchener, ON, CA;Project Architect;Jun '22;3-5 Years of Experience;36-40 Years old;43.451291;-80.4927815
+25;$22per hour;New Brunswick, NJ, US;Intern;Jun '22;< 1 Years of Experience;18-20 Years old;40.4862174;-74.4518173
+26;CAD$55,000per year;Fogo, NL, CA;Draftsperson;Jun '22;3 Years of Experience;21-25 Years old;49.715601;-54.283447
+27;$55,000per year;New York, NY, US;Junior Architect;Jun '22;< 1 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+28;€50,000per year;France;Senior Architect;Jun '22;11-15 Years of Experience;41-45 Years old;46.603354;1.8883335
+29;$51,418per year;Chicago, IL, US;Associate;Jun '22;8-10 Years of Experience;31-35 Years old;41.8755616;-87.6244212
+30;$90,000per year;Dallas, TX, US;Project Manager;Jun '22;26-30 Years of Experience;56-60 Years old;32.7762719;-96.7968559
+31;€15per hour;Den Haag, NL;Junior Designer;Jun '22;< 1 Years of Experience;21-25 Years old;52.0799838;4.3113461
+32;AUD$134,000per year;Ho Chi Minh City, VN;Associate;Jun '22;8-10 Years of Experience;41-45 Years old;10.7758439;106.7017555
+33;$62,400per year;Los Angeles, CA, US;Designer;Jun '22;3-5 Years of Experience;31-35 Years old;34.0536909;-118.242766
+34;$135,000per year;Chicago, IL, US;Partner;Jun '22;11-15 Years of Experience;36-40 Years old;41.8755616;-87.6244212
+35;$46,000per year;Cleveland, OH, US;Designer;Jun '22;3 Years of Experience;21-25 Years old;41.4996562;-81.6936813
+36;$165,000per year;Washington, DC, US;Project Manager;Jun '22;26-30 Years of Experience;56-60 Years old;38.8950368;-77.0365427
+37;$58,000per year;Columbus, OH, US;Associate;Jun '22;< 1 Years of Experience;26-30 Years old;39.9622601;-83.0007065
+38;AUD$90,000per year;Adelaide, AU;Senior Architect;Jun '22;11-15 Years of Experience;36-40 Years old;-34.9281805;138.5999312
+39;CAD$57,000per year;Toronto, ON, CA;Intern;Jun '22;1 Years of Experience;26-30 Years old;43.6534817;-79.3839347
+40;$60,000per year;Oakland, CA, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;37.8044557;-122.2713563
+41;$66,000per year;Oakland, CA, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;37.8044557;-122.2713563
+42;$90,000per year;Oakland, CA, US;Project Manager;Jun '22;11-15 Years of Experience;36-40 Years old;37.8044557;-122.2713563
+43;$80,000per year;Oakland, CA, US;Project Manager;Jun '22;8-10 Years of Experience;36-40 Years old;37.8044557;-122.2713563
+44;$75,000per year;Oakland, CA, US;Job Captain;Jun '22;8-10 Years of Experience;36-40 Years old;37.8044557;-122.2713563
+45;$135,000per year;Miami, FL, US;Partner;Jun '22;26-30 Years of Experience;51-55 Years old;25.7741728;-80.19362
+46;$118,500per year;Madison, WI, US;Senior Architect;Jun '22;21-25 Years of Experience;41-45 Years old;43.074761;-89.3837613
+47;£27,300per year;United Kingdom;Junior Architect;Jun '22;8-10 Years of Experience;26-30 Years old;54.7023545;-3.2765753
+48;$85,000per year;Riverside, CA, US;Job Captain;Jun '22;11-15 Years of Experience;31-35 Years old;33.9533546;-117.3961623
+49;$87,000per year;New York, NY, US;Project Architect;Jun '22;8-10 Years of Experience;46-50 Years old;40.7127281;-74.0060152
+50;€43,800per year;Helsinki, FI;Project Architect;Jun '22;8-10 Years of Experience;31-35 Years old;60.1674881;24.9427473
+51;$3,850per year;Mumbai, IN;Junior Architect;Jun '22;1 Years of Experience;21-25 Years old;19.0785451;72.878176
+52;$150,000per year;Santa Cruz, CA, US;Principal;Jun '22;26-30 Years of Experience;51-55 Years old;37.050096;-121.9905908
+53;$60,000per year;Dallas, TX, US;Job Captain;Jun '22;3-5 Years of Experience;26-30 Years old;32.7762719;-96.7968559
+54;$18per hour;Richmond, VA, US;Intern;Jun '22;< 1 Years of Experience;26-30 Years old;37.5385087;-77.43428
+55;$60,000per year;Denver, CO, US;Job Captain;Jun '22;3-5 Years of Experience;26-30 Years old;39.7392364;-104.9848623
+56;$140,000per year;San Francisco, CA, US;Senior Architect;Jun '22;31-40 Years of Experience;56-60 Years old;37.7790262;-122.419906
+57;€24,000per year;Berlin, DE;Junior Architect;Jun '22;< 1 Years of Experience;26-30 Years old;52.5170365;13.3888599
+58;81,600 (local currency)per year;Zürich, CH;Intermediate Architect;Jun '22;6-7 Years of Experience;31-35 Years old;47.3744489;8.5410422
+59;CAD$95,000per year;Canada;Senior Architect;Jun '22;11-15 Years of Experience;36-40 Years old;61.0666922;-107.991707
+60;$77,000per year;New York, NY, US;BIM Specialist;Jun '22;3-5 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+61;$82,000per year;Los Angeles, CA, US;Junior Designer;Jun '22;2 Years of Experience;26-30 Years old;34.0536909;-118.242766
+62;$110,000per year;Kansas City, MO, US;Principal;Jun '22;21-25 Years of Experience;41-45 Years old;39.100105;-94.5781416
+63;£62,000per year;London, GB;Designer;Jun '22;8-10 Years of Experience;31-35 Years old;51.5073219;-0.1276474
+64;$88,000per year;New York, NY, US;Project Architect;Jun '22;6-7 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+65;$88,000per year;Phoenix, AZ, US;Project Manager;Jun '22;8-10 Years of Experience;31-35 Years old;33.4484367;-112.074141
+66;$130,800per year;Austin, TX, US;Project Manager;Jun '22;8-10 Years of Experience;26-30 Years old;30.2711286;-97.7436995
+67;$97,020per year;Phoenix, AZ, US;Project Architect;Jun '22;11-15 Years of Experience;31-35 Years old;33.4484367;-112.074141
+68;CAD$82,000per year;Vancouver, BC, CA;Project Architect;Jun '22;11-15 Years of Experience;36-40 Years old;49.2608724;-123.113952
+69;$97,000per year;Oakland, CA, US;Job Captain;Jun '22;6-7 Years of Experience;26-30 Years old;37.8044557;-122.2713563
+70;$100,000per year;Phoenix, AZ, US;Project Architect;Jun '22;11-15 Years of Experience;36-40 Years old;33.4484367;-112.074141
+71;$70,500per year;San Francisco, CA, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;37.7790262;-122.419906
+72;$38,250per year;Billings, MT, US;Junior Designer;Jun '22;1 Years of Experience;21-25 Years old;45.7874957;-108.49607
+73;$81,500per year;Denver, CO, US;Project Architect;Jun '22;11-15 Years of Experience;36-40 Years old;39.7392364;-104.9848623
+74;$90,000per year;New York, NY, US;Senior Designer;Jun '22;8-10 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+75;$104,000per year;Seattle, WA, US;Project Architect;Jun '22;6-7 Years of Experience;31-35 Years old;47.6038321;-122.3300624
+76;$63,000per year;Philadelphia, PA, US;Digital Fabricator;Jun '22;3-5 Years of Experience;26-30 Years old;39.9527237;-75.1635262
+77;€14,000per year;Portugal, PT;Intermediate Architect;Jun '22;3-5 Years of Experience;26-30 Years old;40.0332629;-7.8896263
+78;$82,500per year;Huntsville, AL, US;Project Manager;Jun '22;8-10 Years of Experience;31-35 Years old;34.729847;-86.5859011
+79;€53,000per year;Stuttgart, DE;Project Architect;Jun '22;6-7 Years of Experience;31-35 Years old;48.7784485;9.1800132
+80;$70per year;Minneapolis, MN, US;Designer;Jun '22;11-15 Years of Experience;31-35 Years old;44.9772995;-93.2654692
+81;£34,750per year;Manchester, GB;Intermediate Architect;Jun '22;6-7 Years of Experience;26-30 Years old;53.4794892;-2.2451148
+82;CAD$72,500per year;Vancouver, BC, CA;Intern;Jun '22;3-5 Years of Experience;26-30 Years old;49.2608724;-123.113952
+83;$112,000per year;Chincoteague, VA, US;Senior Architect;Jun '22;21-25 Years of Experience;56-60 Years old;37.9331799;-75.3788141
+84;$100,000per year;Seattle, WA, US;Project Architect;Jun '22;8-10 Years of Experience;36-40 Years old;47.6038321;-122.3300624
+85;$107,000per year;Miami, FL, US;Project Manager;Jun '22;8-10 Years of Experience;31-35 Years old;25.7741728;-80.19362
+86;$87,500per year;Oak Brook, IL, US;Project Architect;Jun '22;16-20 Years of Experience;36-40 Years old;41.8328085;-87.9289504
+87;$75,000per year;Chicago, IL, US;Designer;Jun '22;6-7 Years of Experience;26-30 Years old;41.8755616;-87.6244212
+88;$65,000per year;New York, NY, US;Designer;Jun '22;2 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+89;$77,400per year;Madison, WI, US;Designer;Jun '22;11-15 Years of Experience;36-40 Years old;43.074761;-89.3837613
+90;RM36,000per year;Kuala Lumpur, MY;Draftsperson;Jun '22;2 Years of Experience;26-30 Years old;3.1516964;101.6942371
+91;$80,000per year;Los Angeles, CA, US;Designer;Jun '22;1 Years of Experience;21-25 Years old;34.0536909;-118.242766
+92;$15per hour;New York, NY, US;Intern;Jun '22;1 Years of Experience;21-25 Years old;40.7127281;-74.0060152
+93;$67,000per year;Palo Alto, CA, US;Intermediate Designer;Jun '22;3-5 Years of Experience;26-30 Years old;37.4443293;-122.1598465
+94;£36,500per year;London, GB;Senior Architect;Jun '22;3-5 Years of Experience;26-30 Years old;51.5073219;-0.1276474
+95;£45,000per year;London, GB;Intermediate Architect;Jun '22;6-7 Years of Experience;31-35 Years old;51.5073219;-0.1276474
+96;$67,000per year;Los Angeles, CA, US;Junior Designer;Jun '22;2 Years of Experience;36-40 Years old;34.0536909;-118.242766
+97;$82,000per year;San Francisco, CA, US;Intermediate Designer;Jun '22;3-5 Years of Experience;26-30 Years old;37.7790262;-122.419906
+98;£31,500per year;London, GB;Junior Architect;Jun '22;3-5 Years of Experience;26-30 Years old;51.5073219;-0.1276474
+99;$70,000per year;New York, NY, US;Intermediate Designer;Jun '22;3-5 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+100;$65,000per year;San Francisco, CA, US;Designer;Jun '22;3-5 Years of Experience;21-25 Years old;37.7790262;-122.419906
+101;CHF65,650per year;Lausanne, CH;Junior Architect;Jun '22;2 Years of Experience;31-35 Years old;46.5218269;6.6327025
+102;$56,000per year;Los Angeles, CA, US;Junior Designer;Jun '22;1 Years of Experience;26-30 Years old;34.0536909;-118.242766
+103;$25per hour;New York, NY, US;Intern;Jun '22;< 1 Years of Experience;21-25 Years old;40.7127281;-74.0060152
+104;$85,000per year;New York, NY, US;Project Manager;Jun '22;3-5 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+105;$110,000per year;New York, NY, US;Associate;Jun '22;6-7 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+106;AUD$87,000per year;Sydney, AU;Intermediate Architect;Jun '22;6-7 Years of Experience;31-35 Years old;-33.8698439;151.2082848
+107;$78,000per year;San Francisco, CA, US;Associate;Jun '22;3-5 Years of Experience;26-30 Years old;37.7790262;-122.419906
+108;$63,000per year;Boston, MA, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;42.3554334;-71.060511
+109;$69,900per year;Los Angeles, CA, US;Junior Designer;Jun '22;3 Years of Experience;31-35 Years old;34.0536909;-118.242766
+110;$58,000per year;Washington, DC, US;Junior Architect;Jun '22;2 Years of Experience;21-25 Years old;38.8950368;-77.0365427
+111;$20per hour;Tel Aviv, IL;Project Architect;Jun '22;6-7 Years of Experience;26-30 Years old;32.0852997;34.7818064
+112;$175,000per year;San Francisco, CA, US;Project Manager;Jun '22;16-20 Years of Experience;36-40 Years old;37.7790262;-122.419906
+113;€0per year;Treviso, IT;Associate;Jun '22;1 Years of Experience;26-30 Years old;45.806691349999994;12.206315763116372
+114;$60,000per year;New York, NY, US;Junior Architect;Jun '22;2 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+115;$50,000per year;Chicago, IL, US;Designer;Jun '22;3 Years of Experience;26-30 Years old;41.8755616;-87.6244212
+116;$57,000per year;Kansas City, MO, US;Intern;Jun '22;1 Years of Experience;21-25 Years old;39.100105;-94.5781416
+117;AUD$63,000per year;Parramatta, AU;Junior Architect;Jun '22;2 Years of Experience;18-20 Years old;-33.806969699999996;151.02136251722922
+118;$77,000per year;Chicago, IL, US;Associate;Jun '22;6-7 Years of Experience;26-30 Years old;41.8755616;-87.6244212
+119;$54,000per year;Los Angeles, CA, US;Designer;Jun '22;1 Years of Experience;21-25 Years old;34.0536909;-118.242766
+120;$57,000per year;Brooklyn, NY, US;Designer;Jun '22;3 Years of Experience;26-30 Years old;40.6526006;-73.9497211
+121;€10,956per year;Warsaw, PL;Designer;Jun '22;3 Years of Experience;26-30 Years old;52.2337172;21.071432235636493
+122;$65,000per year;New York, US;Junior Architect;Jun '22;1 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+123;£37,000per year;London, GB;Project Architect;Jun '22;6-7 Years of Experience;31-35 Years old;51.5073219;-0.1276474
+124;€10,000per year;Warszawa, PL;Interior Designer;Jun '22;2 Years of Experience;26-30 Years old;52.2337172;21.071432235636493
+125;£28,500per year;London, GB;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;51.5073219;-0.1276474
+126;$72,000per year;New York, NY, US;Junior Architect;Jun '22;2 Years of Experience;21-25 Years old;40.7127281;-74.0060152
+127;$65,000per year;New York, NY, US;Junior Architect;Jun '22;2 Years of Experience;36-40 Years old;40.7127281;-74.0060152
+128;$160,000per year;San Francisco, CA, US;Project Manager;Jun '22;11-15 Years of Experience;31-35 Years old;37.7790262;-122.419906
+129;AUD$75,000per year;Canberra, AU;Junior Architect;Jun '22;3 Years of Experience;26-30 Years old;-35.2975906;149.1012676
+130;$105,900per year;New York, NY, US;Project Architect;Jun '22;8-10 Years of Experience;36-40 Years old;40.7127281;-74.0060152
+131;£45,000per year;London, GB;Visualization Artist;Jun '22;8-10 Years of Experience;31-35 Years old;51.5073219;-0.1276474
+132;$71,000per year;New York, NY, US;Junior Designer;Jun '22;1 Years of Experience;21-25 Years old;40.7127281;-74.0060152
+133;$68,000per year;New York, NY, US;Intermediate Designer;Jun '22;2 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+134;$70,000per year;New York, NY, US;Designer;Jun '22;1 Years of Experience;21-25 Years old;40.7127281;-74.0060152
+135;$60,000per year;New York, NY, US;Designer;Jun '22;< 1 Years of Experience;21-25 Years old;40.7127281;-74.0060152
+136;$82,500per year;San Antonio, TX, US;Job Captain;Jun '22;6-7 Years of Experience;26-30 Years old;29.4246002;-98.4951405
+137;$120,000per year;Saint Louis, MO, US;Senior Designer;Jun '22;11-15 Years of Experience;31-35 Years old;38.6264256;-90.1995853
+138;$85,000per year;Seattle, WA, US;Project Architect;Jun '22;8-10 Years of Experience;31-35 Years old;47.6038321;-122.3300624
+139;$79,000per year;Seattle, WA, US;Project Architect;Jun '22;6-7 Years of Experience;26-30 Years old;47.6038321;-122.3300624
+140;$65,000per year;Seattle, WA, US;Associate;Jun '22;3-5 Years of Experience;26-30 Years old;47.6038321;-122.3300624
+141;$60,000per year;New York, NY, US;Designer;Jun '22;3 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+142;$66,000per year;Boulder, CO, US;Designer;Jun '22;6-7 Years of Experience;26-30 Years old;40.0149856;-105.270545
+143;CAD$74,000per year;Toronto, ON, CA;Junior Architect;Jun '22;3-5 Years of Experience;26-30 Years old;43.6534817;-79.3839347
+144;£39,000per year;London, GB;Senior Designer;Jun '22;3-5 Years of Experience;31-35 Years old;51.5073219;-0.1276474
+145;$82,000per year;San Antonio, TX, US;Project Architect;Jun '22;8-10 Years of Experience;31-35 Years old;29.4246002;-98.4951405
+146;£45,000per year;London, GB;Senior Architect;Jun '22;8-10 Years of Experience;31-35 Years old;51.5073219;-0.1276474
+147;$69,000per year;Philadelphia, PA, US;Junior Architect;Jun '22;3-5 Years of Experience;26-30 Years old;39.9527237;-75.1635262
+148;$75,000per year;Los Angeles, CA, US;Project Manager;Jun '22;8-10 Years of Experience;31-35 Years old;34.0536909;-118.242766
+149;$60,000per year;New York, NY, US;Junior Architect;Jun '22;1 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+150;$60,000per year;New York, NY, US;Junior Architect;Jun '22;1 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+151;$67,500per year;New York, NY, US;Designer;Jun '22;3 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+152;£19,500per year;London, GB;Intermediate Architect;Jun '22;2 Years of Experience;21-25 Years old;51.5073219;-0.1276474
+153;$12per hour;Barcelona, ES;Project Architect;Jun '22;2 Years of Experience;21-25 Years old;41.3828939;2.1774322
+154;$18per hour;Colorado, US;Junior Architect;Jun '22;1 Years of Experience;21-25 Years old;38.7251776;-105.607716
+155;$75,000per year;San Francisco, CA, US;Job Captain;Jun '22;3-5 Years of Experience;26-30 Years old;37.7790262;-122.419906
+156;$70,000per year;New York, NY, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+157;$33per hour;San Jose, CA, US;Job Captain;Jun '22;6-7 Years of Experience;26-30 Years old;37.3361905;-121.890583
+158;$54,000per year;Springfield, MO, US;Junior Architect;Jun '22;1 Years of Experience;21-25 Years old;37.2166779;-93.2920373
+159;$70,000per year;San Francisco, CA, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;37.7790262;-122.419906
+160;$63,000per year;San Francisco, CA, US;Designer;Jun '22;3 Years of Experience;26-30 Years old;37.7790262;-122.419906
+161;$22per hour;Riverside, CA, US;Student Intern;Jun '22;1 Years of Experience;21-25 Years old;33.9533546;-117.3961623
+162;€45,000per year;Antwerpen, BE;Junior Architect;Jun '22;3-5 Years of Experience;31-35 Years old;51.2211097;4.3997081
+163;$65,000per year;New York, NY, US;Junior Architect;Jun '22;2 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+164;$72,000per year;Chicago, IL, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;41.8755616;-87.6244212
+165;CAD$61,200per year;Toronto, ON, CA;Junior Designer;Jun '22;2 Years of Experience;31-35 Years old;43.6534817;-79.3839347
+166;$65,000per year;Boston, MA, US;Designer;Jun '22;2 Years of Experience;21-25 Years old;42.3554334;-71.060511
+167;$22per hour;Cambridge, MA, US;Intern;Jun '22;< 1 Years of Experience;21-25 Years old;42.3750997;-71.1056157
+168;$22per hour;Sacramento, CA, US;Student Intern;Jun '22;< 1 Years of Experience;26-30 Years old;38.5810606;-121.493895
+169;$52,000per year;Philadelphia, PA, US;Junior Designer;Jun '22;1 Years of Experience;26-30 Years old;39.9527237;-75.1635262
+170;CAD$34per hour;Montreal, QC, CA;Intermediate Architect;Jun '22;8-10 Years of Experience;31-35 Years old;45.5031824;-73.5698065
+171;CAD$32per hour;Montreal, QC, CA;Project Architect;Jun '22;3-5 Years of Experience;26-30 Years old;45.5031824;-73.5698065
+172;CAD$29per hour;Montreal, QC, CA;Intern;Jun '22;3-5 Years of Experience;26-30 Years old;45.5031824;-73.5698065
+173;$29per hour;Rancho Cucamonga, CA, US;Designer;Jun '22;3 Years of Experience;21-25 Years old;34.1279268;-117.56432205849399
+174;$20per hour;Chicago, IL, US;Intern;Jun '22;< 1 Years of Experience;21-25 Years old;41.8755616;-87.6244212
+175;€42,000per year;Berlin, DE;Revit Specialist;Jun '22;3-5 Years of Experience;31-35 Years old;52.5170365;13.3888599
+176;CAD$30per hour;Montreal, QC, CA;Junior Architect;Jun '22;3-5 Years of Experience;26-30 Years old;45.5031824;-73.5698065
+177;AUD$60,000per year;Melbourne, AU;Junior Designer;Jun '22;3-5 Years of Experience;26-30 Years old;-37.8142176;144.9631608
+178;$75,000per year;Boston, MA, US;Associate;Jun '22;3-5 Years of Experience;31-35 Years old;42.3554334;-71.060511
+179;£29,500per year;London, GB;Junior Architect;Jun '22;2 Years of Experience;21-25 Years old;51.5073219;-0.1276474
+180;$65,000per year;Pasadena, CA, US;Intermediate Architect;Jun '22;3 Years of Experience;21-25 Years old;34.1476452;-118.1444779
+181;$25per hour;New York, NY, US;Student Intern;Jun '22;2 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+182;CAD$29per hour;Montreal, QC, CA;Intern;Jun '22;3-5 Years of Experience;26-30 Years old;45.5031824;-73.5698065
+183;AUD$75per year;Brisbane, AU;Designer;Jun '22;3 Years of Experience;26-30 Years old;-27.4689682;153.0234991
+184;$120,000per year;New York, NY, US;Project Manager;Jun '22;8-10 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+185;AUD$58,000per year;Brisbane, AU;Student Intern;Jun '22;2 Years of Experience;21-25 Years old;-27.4689682;153.0234991
+186;€2,950per year;Paris, FR;Junior Architect;Jun '22;2 Years of Experience;26-30 Years old;48.8588897;2.3200410217200766
+187;$65,000per year;Irvine, CA, US;Job Captain;Jun '22;1 Years of Experience;26-30 Years old;33.6856969;-117.8259819
+188;£32,000per year;London, GB;Junior Architect;Jun '22;2 Years of Experience;26-30 Years old;51.5073219;-0.1276474
+189;$60,320per year;Pasadena, CA, US;Designer;Jun '22;< 1 Years of Experience;26-30 Years old;34.1476452;-118.1444779
+190;$19per hour;Phoenix, AZ, US;Student Intern;Jun '22;< 1 Years of Experience;21-25 Years old;33.4484367;-112.074141
+191;$97,000per year;New York, NY, US;Project Manager;Jun '22;8-10 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+192;$100,000per year;Springfield, MO, US;Senior Architect;Jun '22;11-15 Years of Experience;31-35 Years old;37.2166779;-93.2920373
+193;CAD$63,000per year;Toronto, ON, CA;Junior Designer;Jun '22;< 1 Years of Experience;26-30 Years old;43.6534817;-79.3839347
+194;kr62,400per year;Bucharest, RO;Project Architect;Jun '22;3-5 Years of Experience;31-35 Years old;44.4361414;26.1027202
+195;kr5,200per year;Bucharest, RO;Project Architect;Jun '22;3-5 Years of Experience;31-35 Years old;44.4361414;26.1027202
+196;$53,000per year;Pittsburgh, PA, US;Junior Designer;Jun '22;3 Years of Experience;21-25 Years old;40.4416941;-79.9900861
+197;$53,000per year;Boston, MA, US;Junior Designer;Jun '22;2 Years of Experience;21-25 Years old;42.3554334;-71.060511
+198;$40,000per year;Los Angeles, CA, US;Designer;Jun '22;1 Years of Experience;21-25 Years old;34.0536909;-118.242766
+199;$60,000per year;Hamilton, NZ;Designer;Jun '22;6-7 Years of Experience;36-40 Years old;-37.7878809;175.281788
+200;$73,250per year;New York, NY, US;Junior Designer;Jun '22;3 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+201;$55,000per year;San Diego, CA, US;Designer;Jun '22;< 1 Years of Experience;21-25 Years old;32.7174202;-117.1627728
+202;$75,000per year;New York, NY, US;Junior Designer;Jun '22;3-5 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+203;$62,000per year;Boston, MA, US;Designer;Jun '22;< 1 Years of Experience;26-30 Years old;42.3554334;-71.060511
+204;$6,200per year;Boston, MA, US;Designer;Jun '22;< 1 Years of Experience;26-30 Years old;42.3554334;-71.060511
+205;$63,000per year;Denver, CO, US;Project Architect;Jun '22;2 Years of Experience;21-25 Years old;39.7392364;-104.9848623
+206;$75,000per year;New York, NY, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+207;$42,000per year;Portland, OR, US;Intern;Jun '22;< 1 Years of Experience;31-35 Years old;45.5202471;-122.6741949
+208;$58,000per year;Los Angeles, CA, US;Junior Architect;Jun '22;3-5 Years of Experience;21-25 Years old;34.0536909;-118.242766
+209;$98,500per year;Boston, MA, US;Associate;Jun '22;3-5 Years of Experience;26-30 Years old;42.3554334;-71.060511
+210;$58,032per year;Boston, MA, US;Designer;Jun '22;2 Years of Experience;21-25 Years old;42.3554334;-71.060511
+211;$20per hour;New York, NY, US;Intern;Jun '22;< 1 Years of Experience;18-20 Years old;40.7127281;-74.0060152
+212;$36,000per year;Brooklyn, NY, US;Intern;Jun '22;< 1 Years of Experience;21-25 Years old;40.6526006;-73.9497211
+213;$65,000per year;Boston, MA, US;Designer;Jun '22;2 Years of Experience;26-30 Years old;42.3554334;-71.060511
+214;R$9per hour;São Paulo, BR;Intern;Jun '22;< 1 Years of Experience;21-25 Years old;-23.5506507;-46.6333824
+215;$78,000per year;Seattle, WA, US;Job Captain;Jun '22;6-7 Years of Experience;31-35 Years old;47.6038321;-122.3300624
+216;R$11per hour;São Paulo, BR;Intern;Jun '22;< 1 Years of Experience;21-25 Years old;-23.5506507;-46.6333824
+217;18,000 (local currency)per year;São Paulo, BR;Intern;Jun '22;1 Years of Experience;21-25 Years old;-23.5506507;-46.6333824
+218;$12,636per year;Prague, CZ;Junior Architect;Jun '22;3 Years of Experience;26-30 Years old;50.0596288;14.446459273258009
+219;CAD$25per hour;Ottawa, ON, CA;Intern;Jun '22;2 Years of Experience;26-30 Years old;45.4208777;-75.6901106
+220;$83,000per year;New York, NY, US;Senior Designer;Jun '22;3-5 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+221;€2,400per year;Donostia-San Sebastián, ES;Student Intern;Jun '22;< 1 Years of Experience;21-25 Years old;43.3224219;-1.9838889
+222;HK$504,000per year;Hong Kong, HK;Junior Architect;Jun '22;6-7 Years of Experience;31-35 Years old;22.2793278;114.1628131
+223;$20per hour;Milwaukee, WI, US;Student Intern;Jun '22;3-5 Years of Experience;21-25 Years old;43.0349931;-87.922497
+224;$20per hour;Milwaukee, WI, US;Associate;Jun '22;1 Years of Experience;21-25 Years old;43.0349931;-87.922497
+225;$78,000per year;New York, NY, US;Intermediate Architect;Jun '22;3 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+226;$22per hour;Albuquerque, NM, US;Intern;Jun '22;< 1 Years of Experience;21-25 Years old;35.0841034;-106.650985
+227;$63,000per year;Dallas, TX, US;Interior Designer;Jun '22;1 Years of Experience;26-30 Years old;32.7762719;-96.7968559
+228;$48,000per year;Columbus, OH, US;Designer;Jun '22;1 Years of Experience;21-25 Years old;39.9622601;-83.0007065
+229;$95,000per year;Los Angeles, CA, US;Senior Designer;Jun '22;8-10 Years of Experience;31-35 Years old;34.0536909;-118.242766
+230;$75,000per year;Los Angeles, CA, US;Project Manager;Jun '22;3-5 Years of Experience;26-30 Years old;34.0536909;-118.242766
+231;£28,000per year;Glasgow, GB;Intermediate Architect;Jun '22;2 Years of Experience;21-25 Years old;55.8609825;-4.2488787
+232;$77,000per year;Austin, TX, US;Project Architect;Jun '22;3-5 Years of Experience;26-30 Years old;30.2711286;-97.7436995
+233;$70,000per year;Brooklyn, NY, US;Intermediate Designer;Jun '22;3-5 Years of Experience;26-30 Years old;40.6526006;-73.9497211
+234;$50,000per year;Philadelphia, PA, US;Designer;Jun '22;< 1 Years of Experience;26-30 Years old;39.9527237;-75.1635262
+235;€31,200per year;Madrid, ES;Intermediate Architect;Jun '22;8-10 Years of Experience;31-35 Years old;40.4167047;-3.7035825
+236;AUD$77,000per year;Melbourne, AU;Intermediate Architect;Jun '22;3-5 Years of Experience;31-35 Years old;-37.8142176;144.9631608
+237;$10per hour;Houston, TX, US;Intern;Jun '22;1 Years of Experience;21-25 Years old;29.7589382;-95.3676974
+238;$54,000per year;Washington, DC, US;Designer;Jun '22;3-5 Years of Experience;21-25 Years old;38.8950368;-77.0365427
+239;$63,000per year;Chicago, IL, US;Junior Architect;Jun '22;< 1 Years of Experience;21-25 Years old;41.8755616;-87.6244212
+240;$65,000per year;Fort Worth, TX, US;Junior Architect;Jun '22;6-7 Years of Experience;26-30 Years old;32.753177;-97.3327459
+241;MXN$240,000per year;Mexico, MX;Project Architect;Jun '22;1 Years of Experience;26-30 Years old;23.6585116;-102.0077097
+242;$50,000per year;Houston, TX, US;Project Manager;Jun '22;< 1 Years of Experience;26-30 Years old;29.7589382;-95.3676974
+243;AUD$67,000per year;Brisbane, AU;Junior Architect;Jun '22;3-5 Years of Experience;26-30 Years old;-27.4689682;153.0234991
+244;$48,000per year;Richmond, VA, US;Associate;Jun '22;< 1 Years of Experience;21-25 Years old;37.5385087;-77.43428
+245;CAD$62,500per year;Toronto, ON, CA;Project Architect;Jun '22;3-5 Years of Experience;31-35 Years old;43.6534817;-79.3839347
+246;$88,000per year;New York, NY, US;Intermediate Designer;Jun '22;6-7 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+247;$26per hour;Boston, MA, US;Designer;Jun '22;1 Years of Experience;21-25 Years old;42.3554334;-71.060511
+248;€18,600per year;Barcelona, ES;Intermediate Architect;Jun '22;3-5 Years of Experience;31-35 Years old;41.3828939;2.1774322
+249;$60,000per year;Los Angeles, CA, US;Junior Designer;Jun '22;2 Years of Experience;26-30 Years old;34.0536909;-118.242766
+250;$62,000per year;Columbus, OH, US;Associate;Jun '22;3 Years of Experience;26-30 Years old;39.9622601;-83.0007065
+251;£30,000per year;London, GB;Junior Architect;Jun '22;2 Years of Experience;26-30 Years old;51.5073219;-0.1276474
+252;$82,000per year;Seattle, WA, US;Intermediate Architect;Jun '22;6-7 Years of Experience;26-30 Years old;47.6038321;-122.3300624
+253;$72,000per year;Richmond, VA, US;Project Architect;Jun '22;8-10 Years of Experience;31-35 Years old;37.5385087;-77.43428
+254;£27,000per year;Leicester, GB;Junior Architect;Jun '22;2 Years of Experience;26-30 Years old;52.6361398;-1.1330789
+255;$90,000per year;New York, NY, US;Project Architect;Jun '22;8-10 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+256;67,500 (local currency)per year;Auckland, NZ;Junior Architect;Jun '22;3-5 Years of Experience;26-30 Years old;-36.852095;174.7631803
+257;$10per hour;Puerto Rico, US;Intern;Jun '22;< 1 Years of Experience;21-25 Years old;18.19897685;-66.26152219418967
+258;€8per hour;Barcelona, ES;Intern;Jun '22;< 1 Years of Experience;21-25 Years old;41.3828939;2.1774322
+259;$69,000per year;Pittsburgh, PA, US;Project Architect;Jun '22;11-15 Years of Experience;36-40 Years old;40.4416941;-79.9900861
+260;$60,000per year;Richmond, VA, US;Junior Architect;Jun '22;2 Years of Experience;21-25 Years old;37.5385087;-77.43428
+261;$72,000per year;Denver, CO, US;Junior Architect;Jun '22;3-5 Years of Experience;26-30 Years old;39.7392364;-104.9848623
+262;$67,500per year;Nashville, TN, US;Associate;Jun '22;3-5 Years of Experience;21-25 Years old;36.1622767;-86.7742984
+263;$79,000per year;New Orleans, LA, US;Associate;Jun '22;8-10 Years of Experience;36-40 Years old;29.9759983;-90.0782127
+264;€30,000per year;Rome, IT;Intermediate Designer;Jun '22;3-5 Years of Experience;26-30 Years old;41.8933203;12.4829321
+265;$25per hour;Los Angeles, CA, US;Junior Designer;Jun '22;< 1 Years of Experience;26-30 Years old;34.0536909;-118.242766
+266;$78,000per year;New York, NY, US;Project Architect;Jun '22;3-5 Years of Experience;26-30 Years old;40.7127281;-74.0060152
+267;72,000 (local currency)per year;United Arab Emirates;BIM Specialist;Jun '22;1 Years of Experience;26-30 Years old;24.0002488;53.9994829
+268;$90,000per year;Philadelphia, PA, US;BIM Specialist;Jun '22;1 Years of Experience;26-30 Years old;39.9527237;-75.1635262
+269;MXN$84,000per year;Monterrey, MX;Junior Architect;Jun '22;1 Years of Experience;21-25 Years old;25.6802019;-100.315258
+270;$63,000per year;New York, NY, US;Junior Architect;Jun '22;1 Years of Experience;21-25 Years old;40.7127281;-74.0060152
+271;730,000 (local currency)per year;Bergen, NO;Senior Architect;Jun '22;16-20 Years of Experience;41-45 Years old;60.3943055;5.3259192
+272;$82,000per year;San Antonio, TX, US;Associate;Jun '22;8-10 Years of Experience;36-40 Years old;29.4246002;-98.4951405
+273;$56,000per year;Nashville, TN, US;Intermediate Designer;Jun '22;3-5 Years of Experience;26-30 Years old;36.1622767;-86.7742984
+274;$78,000per year;Parsippany, NJ, US;Designer;Jun '22;3-5 Years of Experience;31-35 Years old;40.8578772;-74.4259866
+275;$73,000per year;New York, NY, US;Designer;Jun '22;1 Years of Experience;21-25 Years old;40.7127281;-74.0060152
+276;$95,000per year;San Francisco, CA, US;Senior Designer;Jun '22;8-10 Years of Experience;31-35 Years old;37.7790262;-122.419906
+277;$62,400per year;New York, NY, US;Junior Architect;Jun '22;2 Years of Experience;21-25 Years old;40.7127281;-74.0060152
+278;$54,000per year;Pensacola, FL, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;30.421309;-87.2169149
+279;$86,500per year;Los Angeles, CA, US;Project Manager;Jun '22;6-7 Years of Experience;26-30 Years old;34.0536909;-118.242766
+280;$80,000per year;Los Angeles, CA, US;Project Manager;Jun '22;6-7 Years of Experience;26-30 Years old;34.0536909;-118.242766
+281;CAD$30per hour;Saskatoon, SK, CA;Intern;Jun '22;2 Years of Experience;26-30 Years old;52.131802;-106.660767
+282;$71,000per year;Los Angeles, CA, US;Designer;Jun '22;3-5 Years of Experience;31-35 Years old;34.0536909;-118.242766
+283;$75,000per year;Spokane, WA, US;Designer;Jun '22;3 Years of Experience;26-30 Years old;47.6571934;-117.4235106
+284;€11,000per year;Athens, GR;Junior Architect;Jun '22;2 Years of Experience;26-30 Years old;37.9839412;23.7283052
+285;$52,000per year;Pensacola, FL, US;Designer;Jun '22;3 Years of Experience;31-35 Years old;30.421309;-87.2169149
+286;$95,000per year;San Francisco, CA, US;Senior Designer;Jun '22;8-10 Years of Experience;31-35 Years old;37.7790262;-122.419906
+287;CAD$84,240per year;Montreal, QC, CA;Associate;Jun '22;8-10 Years of Experience;31-35 Years old;45.5031824;-73.5698065
+288;$92,000per year;New York, NY, US;Landscape Architect;Jun '22;6-7 Years of Experience;31-35 Years old;40.7127281;-74.0060152
+289;₹240,000per year;Mumbai, IN;Junior Architect;Jun '22;< 1 Years of Experience;21-25 Years old;19.0785451;72.878176
+290;$106,000per year;New York, NY, US;Senior Designer;Jun '22;8-10 Years of Experience;36-40 Years old;40.7127281;-74.0060152
+291;$54,000per year;Los Angeles, CA, US;Junior Designer;Jun '22;< 1 Years of Experience;26-30 Years old;34.0536909;-118.242766
+292;CAD$40per hour;Toronto, ON, CA;Designer;Jun '22;2 Years of Experience;26-30 Years old;43.6534817;-79.3839347
+293;€17,978per year;Prague, CZ;Junior Architect;Jun '22;3-5 Years of Experience;26-30 Years old;50.0596288;14.446459273258009
+294;$52,400per year;Cincinnati, OH, US;Designer;Jun '22;3-5 Years of Experience;26-30 Years old;39.1014537;-84.5124602
+295;$65,000per year;Birmingham, AL, US;Junior Architect;Jun '22;2 Years of Experience;26-30 Years old;33.5206824;-86.8024326
+296;$60,000per year;Denver, CO, US;Intermediate Designer;Jun '22;6-7 Years of Experience;31-35 Years old;39.7392364;-104.9848623
+297;$62,000per year;Memphis, TN, US;Designer;Jun '22;3-5 Years of Experience;21-25 Years old;35.1335022;-89.9668758
+298;$20per hour;San Francisco, CA, US;Student Intern;Jun '22;< 1 Years of Experience;21-25 Years old;37.7790262;-122.419906
+299;$49,950per year;Pensacola, FL, US;Designer;Jun '22;1 Years of Experience;26-30 Years old;30.421309;-87.2169149
