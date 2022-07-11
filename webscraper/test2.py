@@ -7,8 +7,8 @@ import urllib.parse
 url = "https://salaries.archinect.com/salarypoll/results"
 
 res =[]
-for x in range(0,3):
-    querystring = {"sEcho":"2","iColumns":"2","sColumns":"","iDisplayStart":f"{10 * x + 20}","iDisplayLength":"10","mDataProp_0":"0","mDataProp_1":"1","sSearch":"","bRegex":"false","sSearch_0":"","bRegex_0":"false","bSearchable_0":"false","sSearch_1":"","bRegex_1":"false","bSearchable_1":"true","iSortCol_0":"0","sSortDir_0":"asc","iSortingCols":"1","bSortable_0":"true","bSortable_1":"false","age":"[]","gender":"[]","job_title":"[]","primary_market":"[]","experience":"[]","firm_type":"[]","firm_size":"[]","work_status":"[]","license":"[]","health_insurance":"[]","overtime":"[]","annual_bonus":"[]","sort_by":"id","salary-range":"0;100000","range_plus":"true","location":"","under_graduate_school":"","graduate_school":"","post_graduate_school":"","location_type":"all","salary_time":"[]","job_satisfaction":"[]","_":"1657203422691"}
+for x in range(0,2):
+    querystring = {"sEcho":"2","iColumns":"2","sColumns":"","iDisplayStart":f"{5 * x + 20}","iDisplayLength":"5","mDataProp_0":"0","mDataProp_1":"1","sSearch":"","bRegex":"false","sSearch_0":"","bRegex_0":"false","bSearchable_0":"false","sSearch_1":"","bRegex_1":"false","bSearchable_1":"true","iSortCol_0":"0","sSortDir_0":"asc","iSortingCols":"1","bSortable_0":"true","bSortable_1":"false","age":"[]","gender":"[]","job_title":"[]","primary_market":"[]","experience":"[]","firm_type":"[]","firm_size":"[]","work_status":"[]","license":"[]","health_insurance":"[]","overtime":"[]","annual_bonus":"[]","sort_by":"id","salary-range":"0;100000","range_plus":"true","location":"","under_graduate_school":"","graduate_school":"","post_graduate_school":"","location_type":"all","salary_time":"[]","job_satisfaction":"[]","_":"1657203422691"}
 
     payload = ""
     headers = {
